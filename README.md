@@ -5,6 +5,7 @@
 A battle-tested standard for organizing engineering projects, CAD libraries, and development environments across **Altium, KiCad, CCES**, and more. It introduces a strict 3-level hierarchy, clean naming conventions, and automated tooling to eliminate chaos in hardware and software design.
 
 📖 **[Читать на русском языке (manifest.ru.md)](manifest.ru.md)**
+📖 **[Read English version (manifest.en.md)](manifest.en.md)**
 
 ---
 
